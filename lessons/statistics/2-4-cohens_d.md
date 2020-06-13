@@ -16,3 +16,4 @@ first_wgt = firsts['totalwgt_lb']
 others_wgt = others['totalwgt_lb']     
 thinkstats2.CohenEffectSize(first_wgt, others_wgt)
 ```
+    test code block
