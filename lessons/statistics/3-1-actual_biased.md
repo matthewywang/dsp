@@ -22,6 +22,7 @@ thinkplot.PrePlot(2)
 thinkplot.Pmfs([pmf_kdhh_actual, pmf_kdhh_bias]) 
 thinkplot.Show(xlabel='number of kids in household', ylabel='PMF');
 ```
+![Image of KidsHH Plot](https://github.com/matthewywang/dsp/blob/master/lessons/statistics/Actual_vs_Bias_Data_KidsHH.png)
 
 Mean - Actual Data vs Bias Data
 ```python
