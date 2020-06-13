@@ -4,7 +4,7 @@ Yes, first babies are lighter than later babies.  <br>
 Cohen's d = -0.08867 (weight of first babies vs later babies).  <br>
 This is larger and in the opposite direction compared to Cohen's d for pregnancy length, which was 0.02888.
 
-`<addr>` *Code (Cohen's d preg length - first babies vs later babies)*  <br>
+*Code (Cohen's d preg length - first babies vs later babies)*  <br>
     CohenES_prglngth = thinkstats2.CohenEffectSize(firsts.prglngth, others.prglngth)   <br>
     CohenES_prglngth
 
