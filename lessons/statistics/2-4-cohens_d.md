@@ -8,7 +8,7 @@ This is larger and in the opposite direction compared to Cohen's d for pregnancy
     CohenES_prglngth = thinkstats2.CohenEffectSize(firsts.prglngth, others.prglngth)   <br>
     CohenES_prglngth
 
-*Code (Cohen's d weight - first babies vs later babies)*   <br>   
+*Code (Cohen's d weight - first babies vs later babies)*     
     first_wgt = firsts['totalwgt_lb']     <br>
     others_wgt = others['totalwgt_lb']     <br>
     thinkstats2.CohenEffectSize(first_wgt, others_wgt)
