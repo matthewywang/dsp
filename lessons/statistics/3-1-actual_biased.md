@@ -26,7 +26,10 @@ thinkplot.Show(xlabel='number of kids in household', ylabel='PMF');
 Mean - Actual Data vs Bias Data
 ```python
 pmf_kdhh_actual.Mean()
+```
 1.0242
+```python
 pmf_kdhh_bias.Mean()
+```
 2.4037
-``` 
+
