@@ -1,0 +1,15 @@
+Frequentism vs Bayesianism are two different techniques/approaches to statistics.  
+
+Frequentist statistics involves drawing inferences/conclusions from sample data by emphasizing the frequency 
+or proportion of the data.  Sampling is infinite, and hence probabilities are derived from long run frequency 
+distributions.  Data are a repeatable random sample, and data vary.  Underlying parameters are fixed.  
+Frequentist statistics does not assign probabilities to hypotheses or to any unknown values in general.  
+Techniques include confidence intervals and hypothesis testing.
+
+Bayesian statistics also involves drawing inferences/conclusions, but will also incorporate prior 
+history/knowledge/data/assumptions.  Unknown quantities are treated probabilistically.  Data are fixed and 
+observed from the realized sample.  Parameters vary and are described probabilistically (conditional 
+probabilities).  Bayesian statistics may start with a prior probability assuming a specific hypothesis is 
+true (based on prior history or assumptions), and then over time that probability gets updated as more 
+data gets collected/samples are observed.  Bayesian statistics uses probabilities to represent uncertainty 
+in an event or hypothesis.
